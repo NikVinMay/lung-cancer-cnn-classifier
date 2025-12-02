@@ -1,3 +1,8 @@
+> 📝 **Note by NikVinMay**  
+> This repository is a **fork** of the original project created by the students and faculty of BV Raju Institute of Technology.  
+> I am using this project for **personal learning**, to understand lung cancer image classification using CNNs, and to build my own deep-learning workflow skills (preprocessing, training, evaluation).  
+> All original credit for the model architecture, results, and write-up belongs to the authors listed below.
+
 # Lung Cancer Classification Using Deep Learning
 
 ## Introduction
